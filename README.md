@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thomas Henriksen
 - 👀 I have a general interest in most sports, but mainly football. I also have an utmost interest in gaming, that sparked my passion to code.
-- 🌱 I have gone through a year at Noroff where I have learned HTML, CSS and JS. I feel confident in HTML and CSS, and still have some learning to do with JS.
+- 🌱 I`ve have just finished my 2 years at Noroff finishing my degree in Frontend development, my strengths in coding is React and styled components.
 - 💞️ I’m looking to collaborate on projects that mainly contain HTML, CSS and JS, I am a quick learner though, so if its something similar to these I can take a crack at it.
 - 📫 How to reach me: LinkedIn : https://www.linkedin.com/in/thomas-henriksen-60334321a
 
